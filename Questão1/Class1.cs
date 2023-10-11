@@ -49,8 +49,8 @@ public class Class1
                     }
                 }
 
-                Console.WriteLine("Deseja reiniciar o programa? (S para sim, qualquer tecla para sair)");
-            } while (Console.ReadLine().Trim().Equals("S", StringComparison.OrdinalIgnoreCase));
+                Console.WriteLine("Deseja reiniciar o programa? (digita 'sim' para sim, qualquer tecla para sair)");
+            } while (Console.ReadLine().ToLower() == "s");
 
         } while (true); // Loop externo sem fim
     }
