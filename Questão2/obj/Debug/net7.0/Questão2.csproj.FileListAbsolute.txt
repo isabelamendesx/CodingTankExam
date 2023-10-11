@@ -1,0 +1,11 @@
+/home/isa/CodingTankExam/Questão2/bin/Debug/net7.0/Questão2.deps.json
+/home/isa/CodingTankExam/Questão2/bin/Debug/net7.0/Questão2.dll
+/home/isa/CodingTankExam/Questão2/bin/Debug/net7.0/Questão2.pdb
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/Questão2.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/Questão2.AssemblyInfoInputs.cache
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/Questão2.AssemblyInfo.cs
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/Questão2.csproj.CoreCompileInputs.cache
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/Questão2.dll
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/refint/Questão2.dll
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/Questão2.pdb
+/home/isa/CodingTankExam/Questão2/obj/Debug/net7.0/ref/Questão2.dll
