@@ -1,0 +1,11 @@
+/home/isa/CodingTankExam/Questão45/bin/Debug/net7.0/Questão45.deps.json
+/home/isa/CodingTankExam/Questão45/bin/Debug/net7.0/Questão45.dll
+/home/isa/CodingTankExam/Questão45/bin/Debug/net7.0/Questão45.pdb
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/Questão45.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/Questão45.AssemblyInfoInputs.cache
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/Questão45.AssemblyInfo.cs
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/Questão45.csproj.CoreCompileInputs.cache
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/Questão45.dll
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/refint/Questão45.dll
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/Questão45.pdb
+/home/isa/CodingTankExam/Questão45/obj/Debug/net7.0/ref/Questão45.dll
